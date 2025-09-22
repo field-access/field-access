@@ -62,7 +62,7 @@ I'm open to **internships, freelance opportunities**, and collaborative tech pro
 Feel free to reach out via:
 
 - ✉️ [nishantsagar40@gmail.com]
-- 🌐 
+- 🌐 https://portfolio-psi-one-68.vercel.app/
 
 ---
 
